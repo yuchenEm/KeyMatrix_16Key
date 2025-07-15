@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+D:\AD_Project\Key Matrix\PCB_Project\Project Outputs for Key_Matrix\Pick Place for Key_Matrix.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/07/25
+Time:       15:19
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Center-X(mil)","Center-Y(mil)","Layer","Rotation","Comment","Footprint","Description"
+"M4","5407.500mil","1557.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"M3","5407.500mil","2257.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"M2","1392.500mil","1557.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"M1","1392.500mil","2257.500mil","TopLayer","0","PCB Mounting Hole","PCB_Mounting_Hole","Mounting Hole"
+"J4","1395.000mil","3300.000mil","BottomLayer","90","PinHeader_8Pin","PinHeader_8Pin-2.54mm","Straight Single Row, Square Pitch, 2.54mm"
+"J3","1395.000mil","4015.000mil","BottomLayer","90","PinHeader_4Pin","PinHeader_4Pin-2.54mm","Straight Single Row, Square Pitch, 2.54mm"
+"U1","4846.971mil","3761.120mil","BottomLayer","0","STC15W408S","SOIC_28Pin-L17.9-W7.5",""
+"Key 1","1992.795mil","4155.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 2","1992.795mil","3460.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 3","1992.795mil","2760.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 4","1992.795mil","2060.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 5","2692.796mil","4155.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 6","2692.796mil","3460.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 7","2692.796mil","2760.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 8","2692.796mil","2060.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 9","3392.796mil","4155.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 10","3392.796mil","3460.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 11","3392.796mil","2760.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 12","3392.796mil","2060.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 13","4092.796mil","4155.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 14","4092.796mil","3460.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 15","4092.796mil","2760.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"Key 16","4092.796mil","2060.837mil","TopLayer","0","CK_RS282G05A3","Tactile_Button_SMD-SPST_L6.1-W3.7-H2.5",""
+"R16","1840.000mil","4115.000mil","BottomLayer","270","10KO","R0805",""
+"R15","1840.000mil","3420.000mil","BottomLayer","270","10KO","R0805",""
+"R14","1840.000mil","2720.000mil","BottomLayer","270","10KO","R0805",""
+"R13","1840.000mil","2020.000mil","BottomLayer","270","10KO","R0805",""
+"R12","2540.000mil","4120.000mil","BottomLayer","270","10KO","R0805",""
+"R11","2540.000mil","3420.000mil","BottomLayer","270","10KO","R0805",""
+"R10","2540.000mil","2720.000mil","BottomLayer","270","10KO","R0805",""
+"R9","2540.000mil","2020.000mil","BottomLayer","270","10KO","R0805",""
+"R8","3240.000mil","4115.000mil","BottomLayer","270","10KO","R0805",""
+"R7","3240.000mil","3420.000mil","BottomLayer","270","10KO","R0805",""
+"R6","3240.000mil","2720.000mil","BottomLayer","270","10KO","R0805",""
+"R5","3240.000mil","2020.000mil","BottomLayer","270","10KO","R0805",""
+"R4","3940.000mil","4115.000mil","BottomLayer","270","10KO","R0805",""
+"R3","3940.000mil","3420.000mil","BottomLayer","270","10KO","R0805",""
+"R2","3940.000mil","2720.000mil","BottomLayer","270","10KO","R0805",""
+"R1","3940.000mil","2020.000mil","BottomLayer","270","10KO","R0805",""
+"J2","5375.000mil","3300.000mil","BottomLayer","270","PinHeader_8Pin","PinHeader_8Pin-2.54mm","Straight Single Row, Square Pitch, 2.54mm"
+"J1","5375.000mil","4015.000mil","BottomLayer","270","PinHeader_4Pin","PinHeader_4Pin-2.54mm","Straight Single Row, Square Pitch, 2.54mm"
+"C2","4822.046mil","4195.279mil","BottomLayer","270","100nF","C0603",""
+"C1","4747.046mil","4195.279mil","BottomLayer","270","100nF","C0603",""
